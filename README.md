@@ -49,4 +49,4 @@ Developed by LauWyeRock, Audrey-Goo, shihan-dubU, xmlew, timcheng112
 ## Deployment
 Follow this [link](https://bt3103-aaa9f.web.app/) to run the app on your browser
 
-* *Stock Screener and News Page may not be able to run *
+*Stock Screener and News Page may not be able to run*
